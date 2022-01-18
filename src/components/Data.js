@@ -8,25 +8,26 @@ export const projects = [
   },
 
   {
-    title: "GitHub User Search",
-    subtitle: "Using HTML, CSS, JS",
-    description: "Find Github Users",
+    title: "meal-sharing",
+    subtitle: "Using ReactJs",
+    description:
+      "Website to Learn how to cook Different dishes from around the world",
     image: "",
-    link: "https://saloumeh-67.github.io/h",
+    link: "https://github.com/saloumeh-67/meal-sharing",
   },
   {
-    title: "Who's the fastest",
+    title: "Game, Who's the fastest",
     subtitle: "Using HTML, CSS, JS",
     description: "Who is the is the fastest on clicking.",
     image: "",
-    link: "https://github.com/saloumeh-67/hyf-homework/blob/master/javascript/javascript2/week3/js2week3.html",
+    link: "https://github.com/saloumeh-67/hyf-homework/blob/master/javascript/javascript2/week3/Game.js",
   },
   {
-    title: "meal-sharing",
+    title: "Todo app",
     subtitle: "Using ReactJs",
-    description: "Learn how to cook Different dishes from around the world",
+    description: "Have your daily schedule in your phone ",
     image: "",
-    link: "https://github.com/saloumeh-67/meal-sharing",
+    link: "https://github.com/saloumeh-67/hyf-homework/blob/master/react/week2/todo-part2/src/App.js",
   },
 ];
 export const skills = [
@@ -71,6 +72,3 @@ export const experience=[
         details: "Consultancy in the choice of plants and plant design for indoor and outdoor plants",
     }
 ];
-// export const testimonials =[
-
-// ];
